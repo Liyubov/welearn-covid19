@@ -1,0 +1,8 @@
+matplotlib==3.*
+networkx==2.4
+numpy==1.18.*
+pandas
+plotly==4.5.2
+requests==2.22.0
+scikit-learn
+scipy
